@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "Cliff",
+            "email": "cliff@example.com"
+        }
+    ],
+    "projects": [
+        {
+            "title": "CLI Tool",
+            "description": "Python CLI app project",
+            "due_date": "2026-10-19",
+            "username": "Cliff"
+        }
+    ],
+    "tasks": [
+        {
+            "title": "Implement add-task",
+            "status": "Completed",
+            "assigned_to": "Cliff",
+            "project_title": "CLI Tool"
+        }
+    ]
+}
